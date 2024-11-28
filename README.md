@@ -3,7 +3,9 @@ in data folder
 
 # Analysis Notebooks           
 
-* Extensively using **DuckDB** for analysis and data prep        
+* Extensively using **DuckDB** for analysis and data prep   
+* Created the following 
+  ![alt text](image.png)     
 * Starts with the name `analysis`             
 * analysis_create_views - Creates the Views           
   
