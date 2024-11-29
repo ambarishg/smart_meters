@@ -6,3 +6,5 @@ scikit-learn
 lightgbm
 xgboost
 statsforecast
+ipywidgets
+supersmoother
