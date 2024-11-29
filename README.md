@@ -16,4 +16,5 @@ in data folder
 # Modelling       
 
 * kmeans         
-* lightgbm          
+* lightgbm   
+* xgboost               
