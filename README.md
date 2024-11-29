@@ -5,7 +5,7 @@ in data folder
 
 * Extensively using **DuckDB** for analysis and data prep   
 * Created the following                 
-  ![alt text](../docs/tables_views.png)             
+  ![alt text](docs/tables_views.png)             
 * Starts with the name `analysis`             
 * analysis_create_views - Creates the Views           
   
