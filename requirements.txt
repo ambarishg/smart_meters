@@ -9,3 +9,4 @@ statsforecast
 ipywidgets
 supersmoother
 neuralforecast
+streamlit 
